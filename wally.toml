@@ -1,0 +1,8 @@
+[package]
+name = "superinstance/luau-scheduler"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "server"
+description = "Tick-based priority task scheduler for Roblox game loops"
+
+[dependencies]

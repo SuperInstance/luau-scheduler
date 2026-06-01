@@ -1,0 +1,22 @@
+# Build output
+/build/
+/out/
+
+# Rojo
+/*.rbxl
+/*.rbxl.lock
+
+# Wally
+/PackageManager/
+wally.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

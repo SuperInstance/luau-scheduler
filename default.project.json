@@ -1,0 +1,13 @@
+{
+  "name": "luau-scheduler",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "Children": [
+        {
+          "$path": "src"
+        }
+      ]
+    }
+  }
+}
